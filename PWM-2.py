@@ -7,7 +7,6 @@ E=37
 D=35
 C=33
 t=0.05
-d=512
 # creamos un Pulse Width Modulation Object en el pin seleccionado
 NS10= PWM(Pin(NS10),freq=40,duty=512)
 time.sleep(2)
