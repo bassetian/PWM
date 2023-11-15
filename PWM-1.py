@@ -1,7 +1,7 @@
 from machine import Pin, PWM
 import time
 
-NS10 = 16
+NS11 = 16
 
 # creamos un Pulse Width Modulation Object en el siguiente pin
 NS10= PWM(Pin(NS10),freq=440,duty=512)
