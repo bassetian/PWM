@@ -18,4 +18,4 @@ while True:
     juno(391,0.3)
     juno(440,0.3)
     juno(494,0.3)
-    juno(523,0.3)
+    juno(560,0.3)
